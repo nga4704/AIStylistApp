@@ -51,13 +51,13 @@
 git clone https://github.com/nga4704/AIStylistApp.git
 cd AIStylistApp
 ```
-2. Cài đặt dependencies
+### 2. Cài đặt dependencies
 ```bash
 npm install
 ```
-3. Tạo API key (api/config.ts)
-4. Khởi chạy app
+### 3. Tạo API key (api/config.ts)
+### 4. Khởi chạy app
 ```bash
 npx expo start
 ```
-Sau đó dùng điện thoại scan QR code để mở trên Expo Go.
+Sau đó dùng điện thoại mở app Expo Go và scan QR code.
