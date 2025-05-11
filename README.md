@@ -1,5 +1,6 @@
 ## 🎨 GIỚI THIỆU: AI Stylist App – Trợ lý thời trang 
-### **AI Stylist App** là một ứng dụng thời trang ảo thông minh giúp người dùng quản lý tủ đồ cá nhân, gợi ý phối đồ và khám phá phong cách phù hợp dựa trên sở thích, thời tiết và hoàn cảnh sử dụng. App được phát triển bằng **React Native + Expo**, kết hợp với **Firebase** và **AI server**.
+**AI Stylist App** là một ứng dụng thời trang ảo thông minh giúp người dùng quản lý tủ đồ cá nhân, gợi ý phối đồ và khám phá phong cách phù hợp dựa trên sở thích, thời tiết và hoàn cảnh sử dụng. App được phát triển bằng **React Native + Expo**, kết hợp với **Firebase** và **AI server**.
+
 ---
 ## 🌟 CÁC TÍNH NĂNG CHÍNH
 ### 1. 👗 **Closet Screen (Tủ đồ cá nhân)**
@@ -31,6 +32,7 @@
 ### 5. 🧾 **Profile & Settings (Tài khoản và cài đặt)**
 * Xem và chỉnh sửa hồ sơ cá nhân.
 ---
+
 ## 🔌 CÔNG NGHỆ & CÔNG CỤ SỬ DỤNG
 | Công nghệ                          | Vai trò                                        |
 | ---------------------------------- | ---------------------------------------------- |
