@@ -9,10 +9,10 @@
 * Phân loại tủ đồ theo các **tab** như: Tops, Bottoms, Outerwear, Shoes, Accessories,...
 * Kết nối Firebase để lấy dữ liệu quần áo đã lưu.
 * Cho phép người dùng xem chi tiết item quần áo (ảnh, màu sắc, chất liệu...).
----
+
 ### 2. 📸 **Add Clothes Screen (Thêm trang phục)**
 * Sau khi chọn ảnh, người dùng nhấn “Add” để xử lý AI.
----
+
 ### 3. 🤖 **AI Processing Item**
 * Xử lý ảnh đã chọn:
   * Xóa nền ảnh với remove.bg.
@@ -21,14 +21,14 @@
     * Nhận diện màu sắc, chất liệu, hoạ tiết.
     * Dự đoán mùa hoặc dịp phù hợp để mặc.
 * Lưu kết quả lên Firebase.
----
+
 ### 4. 🧠 **Suggestion Outfit Screen (Gợi ý phối đồ AI)**
 * Gồm 3 tab:
   * **User Info**: Hiển thị thông tin người dùng.
   * **Style Preference**: Người dùng chọn style mong muốn (casual, sporty, street, date night,...).
   * **Item Selection**: Hiển thị danh sách item đã lưu, có checkbox để chọn item cần phối.
 * Sau khi chọn xong, người dùng nhấn nút “Get Suggestions” để nhận đề xuất outfit từ AI.
----
+
 ### 5. 🧾 **Profile & Settings (Tài khoản và cài đặt)**
 * Xem và chỉnh sửa hồ sơ cá nhân.
 ---
