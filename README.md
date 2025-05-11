@@ -1,5 +1,5 @@
-## 🎨 GIỚI THIỆU CHI TIẾT: AIStylistApp – Trợ lý thời trang 
-**AIStylistApp** là một ứng dụng thời trang ảo thông minh giúp người dùng quản lý tủ đồ cá nhân, gợi ý phối đồ và khám phá phong cách phù hợp dựa trên sở thích, thời tiết và hoàn cảnh sử dụng. App được phát triển bằng **React Native + Expo**, kết hợp với **Firebase** và **AI server**.
+## 🎨 GIỚI THIỆU: AI Stylist App – Trợ lý thời trang 
+**AI Stylist App** là một ứng dụng thời trang ảo thông minh giúp người dùng quản lý tủ đồ cá nhân, gợi ý phối đồ và khám phá phong cách phù hợp dựa trên sở thích, thời tiết và hoàn cảnh sử dụng. App được phát triển bằng **React Native + Expo**, kết hợp với **Firebase** và **AI server**.
 ---
 ## 🌟 CÁC TÍNH NĂNG CHÍNH
 ### 1. 👗 **Closet Screen (Tủ đồ cá nhân)**
@@ -43,7 +43,7 @@
 | **TypeScript**                     | Tăng tính ổn định và dễ bảo trì                |
 ---
 
-## 🚀 Hướng dẫn chạy ứng dụng
+## 🚀 HƯỚNG DẪN CHẠY ỨNG DỤNG
 ### 1. Clone repo
 ```bash
 git clone https://github.com/nga4704/AIStylistApp.git
