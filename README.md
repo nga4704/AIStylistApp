@@ -56,7 +56,12 @@ cd AIStylistApp
 npm install
 ```
 ### 3. Tạo API key (api/config.ts)
-### 4. Khởi chạy app
+### 4. Chạy AI Server 
+```bash
+cd src/ai-server
+python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+```
+### 5. Khởi chạy app
 ```bash
 npx expo start
 ```
